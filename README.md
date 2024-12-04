@@ -3,6 +3,7 @@ This is my repo for my GitHub notes.
 ### Git
 * Is the actual version control software
 * The application
+* Allows people to collaborate with one another and others. 
 ### Git hub
 * Web Service
 * Can check the history and changes you made
