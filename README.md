@@ -5,7 +5,7 @@ This is my repo for my GitHub notes.
 * The application.
 * Allows people to collaborate with one another and others.
 ### Git hub
-* Web Service
+* Web Service.
 * Can check the history and changes you made.
 * You can make projects that have version control on them .
 ### Repo
